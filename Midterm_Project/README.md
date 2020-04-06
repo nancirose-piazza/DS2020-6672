@@ -9,6 +9,8 @@ The midterm is composed of three tasks: Making a deep neural network, deploying 
 for say a client to use to determine a single PE file (under 2MB) is malicious or benign. In this repository, putty.exe is used as the
 sample.
 
-Task 1: Completed.
+Task 1: Completed. Can be found under midterm-nanci.pynb. The training pynb is as it sounds, it's the notebook full of hyperparameter tweaks and longer epochs.
+
 Task 2: Cannot be completed due to account permission on AWS
-Task 3: Completed.
+
+Task 3: Completed. Can be found in the subfolder midterm files.
