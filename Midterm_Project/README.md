@@ -1,6 +1,6 @@
 This is the code written in a pynb for training a deep neural network for binary Malware Classification. 
 The dataset used is EMBER 2017 version 2. EMBER stands for Endgame Malware Benchmark for Research which is a large dataset composed
-of labeled and unlabeled samples of extracted vectorized features from Portable Executable Header files through project LIEF.
+of labeled and unlabeled samples of parsed features of PE header files from binaries under 2MB. Extracting and vectorizing features of these samples can be done through project LIEF.
 
 More information about them can be found on their GitHub:
 https://github.com/endgameinc/ember/tree/master/malconv
