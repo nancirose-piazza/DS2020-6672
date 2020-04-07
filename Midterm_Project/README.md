@@ -11,6 +11,6 @@ sample.
 
 Task 1: Completed. Can be found under midterm-nanci.pynb. The training pynb is as it sounds, it's the notebook full of hyperparameter tweaks and longer epochs.
 
-Task 2: Cannot be completed due to account permission on AWS
+Task 2: Completed. Needed to be implemented for Task 3.
 
 Task 3: Completed. Can be found in the subfolder midterm files.
