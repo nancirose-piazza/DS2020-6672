@@ -40,9 +40,9 @@ def main():
 
 	client = boto3.client('runtime.sagemaker',
 	region_name='us-east-1',
-	aws_access_key_id='ASIAY5GFQDIKXKFDVU2G',
-	aws_secret_access_key='0+xnwsiry2W9LLvT8RURTchyKyMkxVirCCn1IHfD',
-	aws_session_token='FwoGZXIvYXdzELb//////////wEaDA87XK/Rp/JYTODsJyLGASFDjLZVU/vwPz0Y9SQ3JEwIfeR+Hxs0uV3/nMBxsKsrhzopsSdoi07VrEupk5jdfO8Em0xnjSdu8xiMCwnu8vm/tmXsjZIAbTOyO+rJcrxP6B3PA3c9gC72bX4jCqtfsIs8AECWQtOuXW+oyT2R2Ml/ykERCmQsAe45ZfAQjDM/JUlT39a/gJ1FPri0jFLR7QhUkz2G+fBf7NNr4fnR3dnk06ESnP0GMnb7L6Cb7eW+YUU96QcJHkVUy/c7rFqT9QWU5qsyqyj/sK70BTItrFHqPRxnWL8qX9AHcnJ182lSkw5oraw3SUAxht0k34qV5OrISUxJOr0yAviW'
+	aws_access_key_id='idhere',
+	aws_secret_access_key='keyhere',
+	aws_session_token='token_here'
 )
 	response = client.invoke_endpoint(EndpointName='sagemaker-tensorflow-2020-04-06-18-08-55-002', Body=json.dumps(sample_data))
 	response_body = response['Body']
