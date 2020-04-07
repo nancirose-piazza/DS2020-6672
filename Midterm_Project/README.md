@@ -14,3 +14,6 @@ Task 1: Completed. Can be found under midterm-nanci.pynb. The training pynb is a
 Task 2: Completed. Needed to be implemented for Task 3.
 
 Task 3: Completed. Can be found in the subfolder midterm files.
+
+Youtube video presentation can be found here:
+https://youtu.be/QyhNCxZWde0
