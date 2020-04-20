@@ -1,0 +1,116 @@
+TESTING:
+
+
+
+Success rate (random chance): 1.0
+That is: 1 out of 1
+Success rate (dqn_score): 0.0
+That is: 0 out of 1
+
+
+Success rate (random chance): 1.0
+That is: 1 out of 1
+Success rate (dqn_score): 0.0
+That is: 0 out of 1
+
+
+Success rate (random chance): 1.0
+That is: 1 out of 1
+Success rate (dqn_score): 0.0
+That is: 0 out of 1
+
+
+Success rate (random chance): 1.0
+That is: 1 out of 1
+Success rate (dqn_score): 0.0
+That is: 0 out of 1
+
+
+Success rate (random chance): 1.0
+That is: 1 out of 1
+Success rate (dqn_score): 0.0
+That is: 0 out of 1
+
+
+Success rate (random chance): 1.0
+That is: 1 out of 1
+Success rate (dqn_score): 0.0
+That is: 0 out of 1
+
+TRAINING:
+
+
+Success rate (random chance): 0.0
+That is: 0 out of 4
+Success rate (dqn_score): 0.25
+That is: 1 out of 4
+
+
+Success rate (random chance): 0.0
+That is: 0 out of 4
+Success rate (dqn_score): 0.25
+That is: 1 out of 4
+
+
+Success rate (random chance): 0.25
+That is: 1 out of 4
+Success rate (dqn_score): 0.0
+That is: 0 out of 4
+
+
+Success rate (random chance): 0.25
+That is: 1 out of 4
+Success rate (dqn_score): 0.0
+That is: 0 out of 4
+
+
+Success rate (random chance): 0.0
+That is: 0 out of 4
+Success rate (dqn_score): 0.0
+That is: 0 out of 4
+
+
+Success rate (random chance): 0.25
+That is: 1 out of 4
+Success rate (dqn_score): 0.5
+That is: 2 out of 4
+
+
+FULL SET:
+
+
+
+Success rate (random chance): 0.4
+That is: 2 out of 5
+Success rate (dqn_score): 0.0
+That is: 0 out of 5
+
+
+Success rate (random chance): 0.2
+That is: 1 out of 5
+Success rate (dqn_score): 0.2
+That is: 1 out of 5
+
+
+Success rate (random chance): 0.2
+That is: 1 out of 5
+Success rate (dqn_score): 0.2
+That is: 1 out of 5
+
+
+Success rate (random chance): 0.4
+That is: 2 out of 5
+Success rate (dqn_score): 0.0
+That is: 0 out of 5
+
+
+Success rate (random chance): 0.2
+That is: 1 out of 5
+Success rate (dqn_score): 0.2
+That is: 1 out of 5
+
+
+Success rate (random chance): 0.6
+That is: 3 out of 5
+Success rate (dqn_score): 0.2
+That is: 1 out of 5

@@ -1,0 +1,136 @@
+TESTING:
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+None
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+None
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+None
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+None
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+None
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+None
+
+
+TRAINING:
+
+
+Successful (random):
+None
+
+Successful (score):
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_rename'])
+
+
+Successful (random):
+None
+
+Successful (score):
+(517ac5506a5488a1193686f66cb57ad3288c2258c510004edb2f361b674526cc,['section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename'])
+
+
+Successful (random):
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['upx_unpack', 'overlay_append', 'overlay_append', 'upx_unpack', 'section_add', 'section_append', 'overlay_append', 'overlay_append'])
+
+Successful (score):
+None
+
+
+Successful (random):
+(e5c643f1d8ecc0fd739d0bbe4a1c6c7de2601d86ab0fff74fd89c40908654be5,['remove_debug', 'section_add', 'section_rename', 'section_append', 'remove_debug', 'section_rename'])
+
+Successful (score):
+None
+
+
+Successful (random):
+None
+
+Successful (score):
+None
+
+
+Successful (random):
+(e5c643f1d8ecc0fd739d0bbe4a1c6c7de2601d86ab0fff74fd89c40908654be5,['remove_debug', 'section_add', 'section_rename'])
+
+Successful (score):
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename'])
+(e5c643f1d8ecc0fd739d0bbe4a1c6c7de2601d86ab0fff74fd89c40908654be5,['section_rename'])
+
+
+FULL SET:
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_add', 'section_append', 'remove_signature', 'imports_append', 'create_new_entry', 'remove_signature', 'section_rename', 'imports_append', 'upx_pack'])
+
+Successful (score):
+None
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_rename'])
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_rename'])
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_add', 'section_append', 'remove_signature', 'imports_append', 'create_new_entry', 'remove_signature', 'section_rename', 'imports_append', 'upx_pack'])
+
+Successful (score):
+None
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+(e5c643f1d8ecc0fd739d0bbe4a1c6c7de2601d86ab0fff74fd89c40908654be5,['section_rename'])
+
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+(e5c643f1d8ecc0fd739d0bbe4a1c6c7de2601d86ab0fff74fd89c40908654be5,['section_add', 'section_rename'])
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_append', 'remove_debug', 'section_rename', 'section_append', 'upx_pack'])
+
+Successful (score):
+(517ac5506a5488a1193686f66cb57ad3288c2258c510004edb2f361b674526cc,['section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename', 'section_rename'])
