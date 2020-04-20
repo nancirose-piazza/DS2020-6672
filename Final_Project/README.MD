@@ -33,7 +33,8 @@ current file in each folder with the padded value of 000. The code added relies 
 file when sorted; otherwise will not sort correctly.
 
 Once you read all of that: One can fork a copy of jupyternotebook to get it started
-Jypter Notebook: https://drive.google.com/open?id=1I-dXUroohAwgfmHiJq03ylLvC-DHnu8N
+Jypter Notebook: 
+https://drive.google.com/open?id=1I-dXUroohAwgfmHiJq03ylLvC-DHnu8N
 
 The notebook downloads the .zip so that my entire repository isn't forked. The unzipped folder is just the general things you'll find in the zip, except the init files.
 
