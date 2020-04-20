@@ -32,7 +32,8 @@ desired set to test on. It was left with sha256_full.
 current file in each folder with the padded value of 000. The code added relies on the latest file update to be the last
 file when sorted; otherwise will not sort correctly.
 
-Once you read all of that: One can fork a copy of jupyternotebook to get it started
+Once you read all of that: One can fork a copy of jupyternotebook to get it started.
+
 Jypter Notebook: 
 https://drive.google.com/open?id=1I-dXUroohAwgfmHiJq03ylLvC-DHnu8N
 
