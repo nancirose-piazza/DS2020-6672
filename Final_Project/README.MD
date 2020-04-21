@@ -14,9 +14,10 @@ training intervals in regards to Google Collab's runtime disconnection.
 
 Outside of the gym-malware-master folder should be:
 1. Presentation slides
-2. Two generated textfiles of results from my experimentation. One contains the statistic summary of the dataset results
-The other provides the name (sha256) of the samples, along with the action(s), that successfully evaded the Malware Classifier.
-3. Critiques, Concerns, and remarks I've made about the results in a pdf.
+2. Two generated textfiles of results from my experimentation with the Boltzmann Q Policy. One contains the statistic summary of the dataset results. The other provides the name (sha256) of the samples, along with the action(s), that successfully evaded the Malware Classifier.
+3. Two other generated textfiles of the same name but indicated with (1), results with the model policy set EpsGreedyPolicy and evaluation policy to best_action which is the argmax of the Q-values. Note: this is set for testing, the model was still trained on Boltzmann Q Policy.
+4. ransom_list.txt provides the associated name and sha256 of the Ransomware taken from the Zoo.
+5. misclassified.txt contains all of the original sha256 name associations are misclassified by the Gradient Boosting Tree Malware Classifier.
 
 The general framework is kept from gym-malware; however, I'd like to note a few important differences:
 1. The RL alogorithm implemented is only Double DQL, the baseline model is random.
