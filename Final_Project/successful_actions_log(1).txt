@@ -1,0 +1,24 @@
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_add', 'section_append', 'remove_signature', 'imports_append', 'create_new_entry', 'remove_signature', 'section_rename', 'imports_append', 'upx_pack'])
+
+Successful (score):
+(e5c643f1d8ecc0fd739d0bbe4a1c6c7de2601d86ab0fff74fd89c40908654be5,['section_rename', 'section_rename', 'section_rename', 'section_rename'])
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_rename'])
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+
+Successful (score):
+None
+
+
+Successful (random):
+(2c4c8066a1a7dfdf42c57ff4f9016f1ba05bcb004ff8b0ffc0989165d2ad30e2,['upx_unpack'])
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_add', 'section_append', 'remove_signature', 'imports_append', 'create_new_entry', 'remove_signature', 'section_rename', 'imports_append', 'upx_pack'])
+
+Successful (score):
+(4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,['section_rename', 'section_rename', 'section_rename', 'section_rename'])

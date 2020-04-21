@@ -1,0 +1,19 @@
+
+
+
+Success rate (random chance): 0.4
+That is: 2 out of 5
+Success rate (dqn_score): 0.4
+That is: 2 out of 5
+
+
+Success rate (random chance): 0.2
+That is: 1 out of 5
+Success rate (dqn_score): 0.0
+That is: 0 out of 5
+
+
+Success rate (random chance): 0.4
+That is: 2 out of 5
+Success rate (dqn_score): 0.2
+That is: 1 out of 5
