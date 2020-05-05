@@ -47,4 +47,4 @@ The notebook downloads the .zip so that my entire repository isn't forked. The u
 
 
 
-Youtube video link of introduction and instructions: to be posted.
+Youtube video link of introduction and instructions: https://www.youtube.com/watch?v=7vYhQgvnYt8
